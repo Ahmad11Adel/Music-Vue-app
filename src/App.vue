@@ -2,6 +2,7 @@
   <div id="app">
     <header>
       <h1>My Music</h1>
+      
     </header>
     <main>
       <section class="player">
@@ -19,6 +20,7 @@
           {{ song.title }} - {{ song.artist }}
         </button>
       </section>
+      <p>Created by Ahmad Adel</p>
     </main>
   </div>
 </template>

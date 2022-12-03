@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.4.4",
+    "serve": "^14.1.2",
+    "surge": "^0.23.1",
     "vue": "^2.6.10"
   },
   "devDependencies": {
